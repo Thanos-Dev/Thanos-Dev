@@ -1,4 +1,4 @@
-Git is fucking hard. 
+Discord bot and soon-to-be website developer.
 
 <!---
 Thanos-Dev/Thanos-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
